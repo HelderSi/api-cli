@@ -1,2 +1,2 @@
-# nodejs-api-cli
+# api-cli
 Command-line interface to increase coders' productivity by auto creating repeatable code
